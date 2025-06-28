@@ -28,5 +28,7 @@ ___
 <h4 id= 'download-project'>Розгортання проєкту:</h4>
 Download project
 
-1. Склонувати з Git Hub репозиторію
+1. Склонувати з GitHub репозиторію:
     - натисніть на кнопку "Code"
+    - скопіюйте посилання для клонування
+    - ![Image alt](https://github.com/{alex21000211}/{WeatherApp-}/raw/{Alex-Belyaev}/{images/README clone.png}/image.png)
