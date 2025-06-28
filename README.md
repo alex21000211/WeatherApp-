@@ -27,3 +27,8 @@ All modules
 ___
 <h4 id= 'download-project'>Розгортання проєкту:</h4>
 Download project
+1. Склонувати з Git Hub репозиторію
+- зайдіть на репозиторію вашого проекту
+- натисніть на кнопку "Code"
+![image](https://github.com/user-attachments/assets/7a35ef4d-7290-4894-a9df-042de57ed65d)
+
