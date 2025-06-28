@@ -50,3 +50,20 @@ Download project
 ![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/python%20-m%20venv%20venv.jpg)
     - щоб активувати на Mac OS треба source venv\bin\activate
 ![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/source%20venvbinactivate.jpg)
+<h4 id= 'download-modules-venv'>Завантаження модулів до віртуального оточення:</h4>
+Download modules venv
+
+1. Окремими модулями
+    - треба написати pip install потім назву модолю який ходите встановити
+![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/os.jpg)
+2. За допомогою файлу requirements.txt
+    - встановіть за допомогою requirements
+![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/requirements.jpg)
+
+<h4 id= 'download-modules-venv'>Завантаження модулів до віртуального оточення:</h4>
+Download modules venv
+
+1. Окремими модулями
+    - опис та зображення (або gif анімація)
+2. За допомогою файлу requirements.txt
+    - опис та зображення (або gif анімація)
