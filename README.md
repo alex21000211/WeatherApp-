@@ -46,4 +46,7 @@ Download project
 ![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/source%20venv%20Scripts%20activate.jpg)
 
 2. Mac OS або Linux
-    - опис та зображення (або gif анімація)
+    - щоб створити на Mac OS треба ця ж команда
+![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/python%20-m%20venv%20venv.jpg)
+    - щоб активувати на Mac OS треба source venv\bin\activate
+![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/source%20venvbinactivate.jpg)
