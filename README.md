@@ -1,6 +1,6 @@
 # Weather application
 
-![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/photo_2025-06-28_22-30-35.jpg
+![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/photo_2025-06-28_22-30-35.jpg)
 
 Цей проект розроблено з метою ознайомлення із роботою API, принципом отримання даних від віддаленого серверу, вмінням їх обробляти, структурувати та застосовувати у своємо проєкті. А саме застосовувалось API такого веб-ресурсу як [OpenWeatherMap](https://openweathermap.org). Проєкт допоможе розібратися із роботою файлів JSON, як правильно отримувати та зберігати дані у файлах з типом .json. Та познайомити користувача з інтерфейсом застосунку розробленим за допомогою пакету [CustomTkinter](https://customtkinter.tomschimansky.com)
 
