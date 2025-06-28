@@ -34,4 +34,14 @@ Download project
 ![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/README%20clone.png)
 2. Завантажити за допомогою zip-архіву
     - у тому ж "Code" треба завантажити zip-архів
-![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/download%20Zip.png)   
+![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/download%20Zip.png)
+
+<h4 id= 'create-venv'>Створення віртуального оточення проєкту:</h4>
+Сreate venv
+
+1. Windows
+    - треба відкрити bash терменал та написати python -m venv venv і ваше віртуальне оточення зробиться
+![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/python%20-m%20venv%20venv.jpg)
+
+2. Mac OS або Linux
+    - опис та зображення (або gif анімація)
