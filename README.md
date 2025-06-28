@@ -59,10 +59,7 @@ Download modules venv
 ![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/requirements.jpg)
 - встановіть за допомогою requirements
 
-<h4 id= 'download-modules-venv'>Завантаження модулів до віртуального оточення:</h4>
-Download modules venv
+<h4 id= 'start-project'>Старт проєкту:</h4>
+Start project
+- терміналі: python main.py (або python3 main.py)
 
-1. Окремими модулями
-    - опис та зображення (або gif анімація)
-2. За допомогою файлу requirements.txt
-    - опис та зображення (або gif анімація)
