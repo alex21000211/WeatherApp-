@@ -1,6 +1,6 @@
 # Weather application
 
-![big_screen.png](static/icon/big_screen.png)
+![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/photo_2025-06-28_22-30-35.jpg
 
 Цей проект розроблено з метою ознайомлення із роботою API, принципом отримання даних від віддаленого серверу, вмінням їх обробляти, структурувати та застосовувати у своємо проєкті. А саме застосовувалось API такого веб-ресурсу як [OpenWeatherMap](https://openweathermap.org). Проєкт допоможе розібратися із роботою файлів JSON, як правильно отримувати та зберігати дані у файлах з типом .json. Та познайомити користувача з інтерфейсом застосунку розробленим за допомогою пакету [CustomTkinter](https://customtkinter.tomschimansky.com)
 
@@ -63,6 +63,6 @@ Download modules venv
 Start project
     - терміналі: python main.py (або python3 main.py)
 
-<h4 id= 'start-project'>Висновок по проєкту::</h4>
+<h4 id= 'create-venv'>Висновок по проєкту:</h4>
 Result
     - У цьому проєкті я ознайомився з використанням бібліотек customtkinter, requests, Pillow, Colorama, datetime. Працював через термінал і навчився правильно організовувати структуру коду.
