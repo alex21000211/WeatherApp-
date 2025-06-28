@@ -32,3 +32,6 @@ Download project
     - натисніть на кнопку "Code"
     - скопіюйте посилання для клонування
 ![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/README%20clone.png)
+2. Завантажити за допомогою zip-архіву
+    - у тому ж "Code" треба завантажити zip-архів
+![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/download%20Zip.png)   
