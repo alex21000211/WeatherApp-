@@ -61,5 +61,8 @@ Download modules venv
 
 <h4 id= 'start-project'>Старт проєкту:</h4>
 Start project
-- терміналі: python main.py (або python3 main.py)
+    - терміналі: python main.py (або python3 main.py)
 
+<h4 id= 'start-project'>Висновок по проєкту::</h4>
+Result
+    - У цьому проєкті я ознайомився з використанням бібліотек customtkinter, requests, Pillow, Colorama, datetime. Працював через термінал і навчився правильно організовувати структуру коду.
