@@ -35,7 +35,6 @@ Download project
 2. Завантажити за допомогою zip-архіву
     - у тому ж "Code" треба завантажити zip-архів
 ![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/download%20Zip.png)
-
 <h4 id= 'create-venv'>Створення віртуального оточення проєкту:</h4>
 Сreate venv
 
@@ -54,10 +53,10 @@ Download project
 Download modules venv
 
 1. Окремими модулями
-    - треба написати pip install потім назву модолю який ходите встановити
+- треба написати pip install потім назву модолю який ходите встановити
 ![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/os.jpg)
 2. За допомогою файлу requirements.txt
-    - встановіть за допомогою requirements
+- встановіть за допомогою requirements
 ![Image alt](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/requirements.jpg)
 
 <h4 id= 'download-modules-venv'>Завантаження модулів до віртуального оточення:</h4>
