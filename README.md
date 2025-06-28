@@ -31,4 +31,4 @@ Download project
 1. Склонувати з GitHub репозиторію:
     - натисніть на кнопку "Code"
     - скопіюйте посилання для клонування
-![README clone](images/README clone.png)
+[    - ](https://github.com/alex21000211/WeatherApp-/blob/Alex-Belyaev/images/README%20clone.png)
