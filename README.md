@@ -27,7 +27,6 @@ All modules
 ___
 <h4 id= 'download-project'>Розгортання проєкту:</h4>
 Download project
+
 1. Склонувати з Git Hub репозиторію
     - натисніть на кнопку "Code"
-    https://github.com/alex21000211/WeatherApp-/blob/main/README%20clone.png?raw=true
-
